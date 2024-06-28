@@ -1,0 +1,4 @@
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.DataAcess\obj\Debug\net8.0\OrientalOasis.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.DataAcess\obj\Debug\net8.0\OrientalOasis.DataAcess.AssemblyInfoInputs.cache
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.DataAcess\obj\Debug\net8.0\OrientalOasis.DataAcess.AssemblyInfo.cs
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.DataAcess\obj\Debug\net8.0\OrientalOasis.DataAcess.csproj.CoreCompileInputs.cache

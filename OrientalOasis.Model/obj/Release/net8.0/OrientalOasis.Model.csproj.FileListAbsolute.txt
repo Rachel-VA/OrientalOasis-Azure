@@ -1,0 +1,12 @@
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\bin\Release\net8.0\OrientalOasis.Model.deps.json
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\bin\Release\net8.0\OrientalOasis.Model.dll
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\bin\Release\net8.0\OrientalOasis.Model.pdb
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.csproj.AssemblyReference.cache
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.AssemblyInfoInputs.cache
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.AssemblyInfo.cs
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.csproj.CoreCompileInputs.cache
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.dll
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\refint\OrientalOasis.Model.dll
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\OrientalOasis.Model.pdb
+C:\UAT_MS\MS539\FinalProject\OrientalOasis.Model\obj\Release\net8.0\ref\OrientalOasis.Model.dll
